@@ -5,14 +5,6 @@ This program is a command-line tool for managing a parking lot. It allows the us
 ## Getting Started
 To use this program, you will need a computer with a command-line interface. You will also need to have the source code of the program, which you can obtain by cloning this repository or downloading the code as a zip file.
 
-## Running the Program
-To run the program, navigate to the directory where the source code is located and enter the following command:
-
-```
-kotlin Main.kt
-```
-This will start the program and display the command prompt. You can then enter commands to manage the parking lot.
-
 ## Available Commands
 The following commands are available:
 
