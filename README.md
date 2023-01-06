@@ -9,7 +9,7 @@ To use this program, you will need a computer with a command-line interface. You
 To run the program, navigate to the directory where the source code is located and enter the following command:
 
 ```
-kotlin parking.kt
+kotlin Main.kt
 ```
 This will start the program and display the command prompt. You can then enter commands to manage the parking lot.
 
